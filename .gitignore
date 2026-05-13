@@ -1,0 +1,6 @@
+.venv
+*.pyc
+*.pyo
+__pycache__/
+data/
+output/model_*.pkl

@@ -1,0 +1,18 @@
+Accuracy: 72.77%
+
+              precision    recall  f1-score   support
+
+   airplanes       0.68      0.81      0.74       240
+  Motorbikes       0.81      0.92      0.86       239
+  Faces_easy       0.79      0.88      0.83       130
+       Faces       0.82      0.54      0.65       130
+       watch       0.67      0.56      0.61        71
+    Leopards       0.63      0.98      0.77        60
+      bonsai       0.47      0.42      0.44        38
+    car_side       0.67      0.28      0.39        36
+       ketch       0.67      0.18      0.28        34
+  chandelier       0.67      0.19      0.29        32
+
+    accuracy                           0.73      1010
+   macro avg       0.69      0.58      0.59      1010
+weighted avg       0.73      0.73      0.71      1010
